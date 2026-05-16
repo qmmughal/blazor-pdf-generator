@@ -2,7 +2,7 @@ Here’s the updated **README** including features for the Blazor Server project
 
 ---
 
-# Blazor Sharp Project
+# Blazor PDF Generator
 
 BlazorSharpProject is a Blazor Server and WebAssembly application designed to generate PDFs using **PdfSharp** and **MigraDoc** libraries. It demonstrates how to integrate these libraries to create dynamic PDFs with rich styling.
 
