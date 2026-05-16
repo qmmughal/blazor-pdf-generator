@@ -1,10 +1,10 @@
-Here’s the updated **README** including features for the Blazor Server project:
+Here’s the updated **README** including features for the Blazor PDF Generator:
 
 ---
 
 # Blazor PDF Generator
 
-BlazorSharpProject is a Blazor Server and WebAssembly application designed to generate PDFs using **PdfSharp** and **MigraDoc** libraries. It demonstrates how to integrate these libraries to create dynamic PDFs with rich styling.
+Blazor PDF Generator is a Blazor Server and WebAssembly application designed to generate PDFs using **PdfSharp** and **MigraDoc** libraries. It demonstrates how to integrate these libraries to create dynamic PDFs with rich styling.
 
 ## Features
 
@@ -18,7 +18,7 @@ BlazorSharpProject is a Blazor Server and WebAssembly application designed to ge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/qmmughal/BlazorSharpProject.git
+   git clone https://github.com/qmmughal/blazor-pdf-generator.git
    ```
 2. Open the project in Visual Studio and build the solution.
 3. Select either **Blazor Server** or **WebAssembly** project.
