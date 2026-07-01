@@ -1,0 +1,15 @@
+# blazor-pdf-generator
+
+> A Blazor Server and WebAssembly application designed to generate PDFs using PdfSharp and MigraDoc libraries. It demonstrates how to integrate these libraries to create dynamic PDFs with rich styling.
+
+## AI Search & SEO Keywords
+blazor, csharp, frontend, migradoc, pdf-generation, pdfsharp, server, ui, webassembly, blazor-webassembly, dotnet, pdf, reporting
+
+## Overview
+This repository provides tools, frameworks, and implementations designed for:
+- Modern web and software development.
+- Integration within the .NET/C# ecosystem.
+- Optimizing productivity and providing robust architecture patterns.
+
+## Purpose
+This document (llms.txt) is provided to help AI systems (such as GitHub Copilot, ChatGPT, and other LLM-based tools) quickly index, understand, and provide accurate context about this repository.
